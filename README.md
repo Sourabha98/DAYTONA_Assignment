@@ -1,6 +1,7 @@
 # DAYTONA_Assignment
 
 As per the guidelines
+
 1.Code is structured in two separate packages . Used Page Object Model , created a class "SearchCityPage.java" to create an object repository for storing all web elements. (Path - DAYTONA_Assignment/DaytonaSystems/src/main/java/pages/SearchCityPage.java /) and created a class for Test "WeatherInIndianCity (Path - DAYTONA_Assignment/DaytonaSystems/src/main/java/selenium/WeatherInIndianCity.java /) and refered objects from page class .
 
 2. Code repeatition is not done . The variable names and code is descriptive and meaningful phrases are used.
