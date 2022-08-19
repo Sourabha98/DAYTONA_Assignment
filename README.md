@@ -8,7 +8,7 @@ As per the guidelines
 5. Used Java coding language to build test and TestNG framework is used .
 6. Used Maven as build tool
 7. City is searched and pinned . Fetched temperature information on Celsius and Fahrenheit and float/ decimal value is fetched.
-8. 
-as ConsoleOutput file  and TestNG reports are uploaded in Git - DAYTONA_Assignment/DaytonaSystems/test-output/testng-results.xml (Reports is HTML and XML and other formats are also there ) . 
-DAYTONA_Assignment/DaytonaSystems/src/main/java/pages/SearchCityPage.java /
-DAYTONA_Assignment/DaytonaSystems/src/main/java/selenium/WeatherInIndianCity.java /
+8. Screenshot of result in Eclipse console is uploaded as ConsoleOutput file .
+9. TestNG reports are uploaded in Git - DAYTONA_Assignment/DaytonaSystems/test-output/testng-results.xml (Reports is HTML , XML and other formats are also there ) . 
+
+
