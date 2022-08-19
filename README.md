@@ -11,4 +11,8 @@ As per the guidelines
 8. Screenshot of result in Eclipse console is uploaded as ConsoleOutput file .
 9. TestNG reports are uploaded in Git - DAYTONA_Assignment/DaytonaSystems/test-output/testng-results.xml (Reports is HTML , XML and other formats are also there ) . 
 
+Deployment instructions for local execution 
+
+1.Import the Project 
+
 
